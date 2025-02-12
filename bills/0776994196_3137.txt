@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 3137
+Customer Name: thushara
+Phone Number: 0776994196
+Date and Time: 2023-11-26 | 19:31:13 PM
+=====================================
+Products			QTY	 Price
+=====================================
+DD528C			20	27000.0
+======================================
+ Sub amount:			Rs.27000.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.27000.00
+======================================

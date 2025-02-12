@@ -1,0 +1,16 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 3296
+Customer Name: kamal
+Phone Number: 1111111111
+Date and Time: 2023-11-18 | 14:16:04 PM
+=====================================
+Products			QTY	 Price
+=====================================
+MF006B			10	6500.0
+DD528C			3	4050.0
+======================================
+ Sub amount:			Rs.10550.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.10550.00
+======================================

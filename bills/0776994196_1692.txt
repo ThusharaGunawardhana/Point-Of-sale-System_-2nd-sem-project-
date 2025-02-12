@@ -1,0 +1,16 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 1692
+Customer Name: thushara
+Phone Number: 0776994196
+Date and Time: 2023-11-27 | 21:49:04 PM
+=====================================
+Products			QTY	 Price
+=====================================
+MTFD004AR			10	6500.0
+DUP 521 A			12	8400.0
+======================================
+ Sub amount:			Rs.14900.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.14900.00
+======================================

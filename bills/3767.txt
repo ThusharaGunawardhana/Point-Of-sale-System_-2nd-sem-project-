@@ -1,0 +1,14 @@
+	 Wellcome Herath tiles & Accessories
+ Bill Number:	3767
+ Customer name:	
+ phone Number:	
+=====================================
+ Products			QTY	 Price
+=====================================
+DD528C			12	16200.0
+MF006B			4	2600.0
+======================================
+ Sub amount:			Rs.18800.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.18800.00
+======================================

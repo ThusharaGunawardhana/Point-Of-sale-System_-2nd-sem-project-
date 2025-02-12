@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 6605
+Customer Name: ttt
+Phone Number: 0772039880
+Date and Time: 2023-11-26 | 21:56:47 PM
+=====================================
+Products			QTY	 Price
+=====================================
+MF006B			10	6500.0
+======================================
+ Sub amount:			Rs.6500.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.6500.00
+======================================

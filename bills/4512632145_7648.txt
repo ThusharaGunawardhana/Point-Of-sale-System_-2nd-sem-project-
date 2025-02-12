@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 7648
+Customer Name: dineth
+Phone Number: 4512632145
+Date and Time: 2025-02-12 | 12:11:36 PM
+=====================================
+Products			QTY	 Price
+=====================================
+MTFD004AR			2	1300.0
+======================================
+ Sub amount:			Rs.1300.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.1300.00
+======================================

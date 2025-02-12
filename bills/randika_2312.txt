@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 2312
+Customer Name: 1234567891
+Phone Number: randika
+Date and Time: 2023-11-27 | 10:44:28 AM
+=====================================
+Products			QTY	 Price
+=====================================
+DD528C			10	13500.0
+======================================
+ Sub amount:			Rs.13500.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.13500.00
+======================================

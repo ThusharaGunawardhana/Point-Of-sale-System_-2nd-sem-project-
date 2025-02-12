@@ -1,0 +1,16 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 9713
+Customer Name: dinitha
+Phone Number: 0776994196
+Date and Time: 2024-06-24 | 00:13:44 AM
+=====================================
+Products			QTY	 Price
+=====================================
+dising			10	6500.0
+DUP 521 A			40	28000.0
+======================================
+ Sub amount:			Rs.34500.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.34500.00
+======================================

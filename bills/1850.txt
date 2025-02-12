@@ -1,0 +1,13 @@
+	 Wellcome Herath tiles & Accessories
+ Bill Number:	1850
+ Customer name:	thushaera
+ phone Number:	0776994196
+=====================================
+ Products			QTY	 Price
+=====================================
+MF006B			10	6500.0
+======================================
+ Sub amount:			Rs.6500.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.6500.00
+======================================

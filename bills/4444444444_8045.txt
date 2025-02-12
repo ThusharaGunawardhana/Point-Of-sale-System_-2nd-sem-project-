@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 8045
+Customer Name: thush
+Phone Number: 4444444444
+Date and Time: 2023-11-18 | 14:58:02 PM
+=====================================
+Products			QTY	 Price
+=====================================
+MF006B			13	8450.0
+======================================
+ Sub amount:			Rs.8450.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.8450.00
+======================================

@@ -1,0 +1,15 @@
+	Welcome to Herath Tiles & Accessories
+
+Bill Number: 5583
+Customer Name: nimal
+Phone Number: 3333333333
+Date and Time: 2023-11-18 | 14:47:44 PM
+=====================================
+Products			QTY	 Price
+=====================================
+DD528C			13	17550.0
+======================================
+ Sub amount:			Rs.17550.00
+ Tax amount:			Rs.0.00
+ Total amount:			Rs.17550.00
+======================================
